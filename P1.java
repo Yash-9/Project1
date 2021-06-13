@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Calculate 
+public class P1 
 
 {
 
